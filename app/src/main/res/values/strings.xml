@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laboratorio09</string>
+    
+    <string name="aluguel">Aluguel</string>
+    <string name="venda">Venda</string>
+    <string name="clientes">Clientes</string>
+
+
+</resources>
